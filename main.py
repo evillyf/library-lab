@@ -2,7 +2,7 @@
 #OBS.2: Renomear o arquivo main para a extensão .pyw para excluir a janela preta. No terminal criar executável a partir do código: pyinstaller --onefile main.pyw
 #Depois de criado, retirar da pasta dist e jogar para a pasta do projeto > ctrl+c, ctrl+v para onde desejado.
 #OBS.3: Necessário ter a versão do webbrowser do navegador(baixar a partir do google), vide versão em 'ajuda' > 'sobre o google chrome' - ps: é preciso estar na pasta jupyter do C:.
-#OBS.4: O usuário não precisa baixar nada, só extrair as imagens do arquivo zip do programa.
+#OBS.4: O usuário só precisa extrair o Zip.
 
 import tkinter as tk
 import tkinter.font
